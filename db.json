@@ -2,10 +2,9 @@
   "posts": [
     {
       "id": 1,
-      "title": "hello"
+      "username": "jack732",
+      "password":"Jacob732"
     }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+ 
 }
