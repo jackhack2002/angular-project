@@ -1,11 +1,30 @@
-{
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
+[
+  {
+    "name": "Jacob Jabakumar.s",
+    "age": 21,
+    "email": "jacobjabakumar2002@gmail.com",
+    "gender": "Male",
+    "birthdate": "2002-03-07",
+    "id": 1
+  },
+  {
+    "name": "Jacob Jabakumar S",
+    "email": "jacobjabakumar2002@gmail.com",
+    "country": "India",
+    "gender": "male",
+    "dateOfBirth": "2002-03-07",
+    "password": "dsfcuyjhaesd",
+    "confirmPassword": "auyjzshfdc yczhsdx",
+    "id": 2
+  },
+  {
+    "name": "Jacob Jabakumar S",
+    "email": "jacobjabakumar2002@gmail.com",
+    "country": "India",
+    "dateOfBirth": "2002-03-07",
+    "gender": "male",
+    "password": "zrfgvzdxfvzs",
+    "confirmPassword": "dzfxyuggbdfv",
+    "id": 3
   }
-}
+]
